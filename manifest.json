@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Auto Scroll",
+    "version": "1.0",
+    "description": "Manga reader",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["https://comick.io/comic/*"],
+        "js": ["dist/content.js"],
+        "run_at": "document_idle"
+      }
+    ]
+  }
+  
