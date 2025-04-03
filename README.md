@@ -32,6 +32,8 @@ A Chrome extension that **automatically scrolls** comic manga webpages at a cons
 - Enable Developer mode (top-right corner)
 - Click Load unpacked and select the `Manga-Auto-Scroll` folder
 
+*If Not Working Reload Page Once*
+
 
 ## 🛠️ Technologies Used
 - TypeScript: Type-safe & scalable JavaScript
