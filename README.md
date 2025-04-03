@@ -16,7 +16,7 @@ A Chrome extension that **automatically scrolls** comic manga webpages at a cons
 
 1. **Clone the repository**  
    ```sh
-   https://github.com/akshay07k/Manga-Auto-Scroll.git
+   git clone https://github.com/akshay07k/Manga-Auto-Scroll.git
    cd Manga-Auto-Scroll
 
 2. **Install dependencies using pnpm**
